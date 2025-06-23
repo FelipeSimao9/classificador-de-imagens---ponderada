@@ -1,0 +1,6 @@
+# data.yaml
+train: ./train
+val:   ./val
+
+nc: 4
+names: ['animais','cenarios','comida','pessoas']
