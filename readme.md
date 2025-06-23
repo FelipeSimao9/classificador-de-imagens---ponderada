@@ -28,7 +28,7 @@ O objetivo é demonstrar a integração de um modelo de visão computacional tre
   - **Origem:** coletadas de fontes públicas e organizadas manualmente para representação balanceada (apesar de alguma variação de proporção).
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I_3-19G9PG0?si=MUr-D6YTDD6gzEGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[DEMONSTRAÇÃO NO YOUTUBE](https://www.youtube.com/watch?v=I_3-19G9PG0)
 
 
 ## 3. Instalação e Execução
