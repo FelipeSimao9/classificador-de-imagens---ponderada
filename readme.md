@@ -1,4 +1,4 @@
-# Visualizador de Imagens com Classificador Customizado
+# Classificador de imagens
 
 ## 1. Descrição do Projeto
 
